@@ -6,10 +6,3 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 </div>
-
-
-<div align="center">
-  
-![Scripts'n'labs](https://github.com/gustocezar78/gustocezar78/blob/main/header.png)
-
-</div>
