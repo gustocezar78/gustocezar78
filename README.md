@@ -10,6 +10,6 @@
 
 <div align="justify">
   
-Dedico minha trajetória a utilizar a tecnologia como ferramenta para tornar o trabalho mais eficiente e as rotinas mais estáveis. Com passagens por setores administrativos e operacionais, hoje foco minha energia na Infraestrutura de TI, conectando pessoas e sistemas de forma segura e organizada.
+![Scripts'n'labs](https://github.com/gustocezar78/gustocezar78/blob/main/header.png)
 
 </div>
